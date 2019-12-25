@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "bamboo-fence-justfatlard",
+  "version": "0.0.1",
+  "name": "Bamboo Fences",
+  "description": "Because bamboo",
+  "authors": [
+    "justfatlard"
+  ],
+  "contact": {
+    "sources": ""
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "justfatlard.bamboo_fence.BambooFence"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.7.2",
+    "fabric": "*",
+    "minecraft": "1.15.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

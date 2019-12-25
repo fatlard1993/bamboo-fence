@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "LBL",
+        "LBL"
+    ],
+    "key": {
+        "L": {
+            "item": "bamboo-block-justfatlard:bamboo_block"
+        },
+        "B": {
+            "item": "minecraft:bamboo"
+        }
+    },
+    "result": {
+        "item": "bamboo-fence-justfatlard:bamboo_fence",
+        "count": 1
+    }
+}
