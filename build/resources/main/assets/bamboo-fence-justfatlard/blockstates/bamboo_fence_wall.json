@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=east": { "model": "bamboo-fence-justfatlard:block/bamboo_fence_wall", "y": 90 },
-        "facing=south": { "model": "bamboo-fence-justfatlard:block/bamboo_fence_wall", "y": 180 },
-        "facing=west": { "model": "bamboo-fence-justfatlard:block/bamboo_fence_wall", "y": 270 },
-        "facing=north": { "model": "bamboo-fence-justfatlard:block/bamboo_fence_wall", "y": 0 }
-    }
-}
