@@ -3,7 +3,7 @@
   "id": "bamboo-fence-justfatlard",
   "version": "${version}",
   "name": "Bamboo Fences",
-  "description": "Adds bamboo fencing and gates",
+  "description": "Because bamboo",
   "authors": [
     "justfatlard"
   ],
@@ -11,13 +11,14 @@
     "sources": ""
   },
   "license": "MIT",
-  "icon": "assets/bamboo-fence-justfatlard/icon.png",
+  "icon": "icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
       "justfatlard.bamboo_fence.BambooFence"
     ]
   },
+  "mixins": [],
   "depends": {
     "fabricloader": ">=0.7.2",
     "fabric": "*",
