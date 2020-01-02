@@ -1,0 +1,9 @@
+{
+  "criteria": {
+    "has_emerald": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [{ "item": "minecraft:bamboo" }] }
+    }
+  },
+  "rewards": { "recipes": ["bamboo-fence-justfatlard:bamboo_fence", "bamboo-fence-justfatlard:bamboo_gate", "bamboo-fence-justfatlard:bamboo_wall"] }
+}
