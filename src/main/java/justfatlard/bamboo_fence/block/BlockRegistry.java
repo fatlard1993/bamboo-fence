@@ -13,8 +13,8 @@ public class BlockRegistry {
     public static final BlockBambooFenceWall BAMBOO_FENCE_WALL_BLOCK = new BlockBambooFenceWall(FabricBlockSettings.of(Material.BAMBOO).sounds(BlockSoundGroup.BAMBOO).strength(2.0F, 15F).build());
 
     public static void registerBlocks(){
-        Registry.register(Registry.BLOCK, new Identifier(MODID, "bamboo_fence_gate"), BAMBOO_FENCE_GATE_BLOCK);
-        Registry.register(Registry.BLOCK, new Identifier(MODID, "bamboo_fence"), BAMBOO_FENCE_BLOCK);
-        Registry.register(Registry.BLOCK, new Identifier(MODID, "bamboo_fence_wall"), BAMBOO_FENCE_WALL_BLOCK);
+			Registry.register(Registry.BLOCK, new Identifier(MODID, "bamboo_fence_gate"), BAMBOO_FENCE_GATE_BLOCK);
+			Registry.register(Registry.BLOCK, new Identifier(MODID, "bamboo_fence"), BAMBOO_FENCE_BLOCK);
+			Registry.register(Registry.BLOCK, new Identifier(MODID, "bamboo_fence_wall"), BAMBOO_FENCE_WALL_BLOCK);
     }
 }

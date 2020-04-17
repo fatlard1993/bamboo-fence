@@ -1,5 +1,6 @@
 {
-    "values": [
-      "bamboo-fence-justfatlard:bamboo_fence"
-    ]
-  }
+	"replace": false,
+	"values": [
+		"bamboo-fence-justfatlard:bamboo_fence"
+	]
+}
