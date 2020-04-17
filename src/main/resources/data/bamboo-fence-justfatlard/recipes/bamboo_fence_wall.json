@@ -1,16 +1,12 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "BBB",
-        "BBB"
-    ],
-    "key": {
-        "B": {
-            "item": "minecraft:bamboo"
-        }
-    },
-    "result": {
-        "item": "bamboo-fence-justfatlard:bamboo_fence_wall",
-        "count": 2
-    }
+	"type": "crafting_shaped",
+	"pattern": [
+		"BBB",
+		"BBB"
+	],
+	"key": { "B": { "item": "minecraft:bamboo" } },
+	"result": {
+		"item": "bamboo-fence-justfatlard:bamboo_fence_wall",
+		"count": 2
+	}
 }
